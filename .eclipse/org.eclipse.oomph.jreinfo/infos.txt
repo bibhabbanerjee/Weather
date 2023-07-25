@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Java\jre7;1;7;0;32;false;1682270284348;x86

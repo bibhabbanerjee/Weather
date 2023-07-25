@@ -1,0 +1,70 @@
+# Octave 5.2.0, Tue Jan 11 14:37:37 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Tue Jan 11 14:38:07 2022 GMT <unknown@BT1000103035>
+clc
+# Octave 5.2.0, Tue Jan 11 15:27:02 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Tue Jan 11 15:27:11 2022 GMT <unknown@BT1000103035>
+clc
+pkg install -force signal
+# Octave 5.2.0, Tue Jan 11 15:30:18 2022 GMT <unknown@BT1000103035>
+clc
+ pkg install -forge signal
+# Octave 5.2.0, Tue Jan 11 15:27:11 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Tue Jan 11 15:35:19 2022 GMT <unknown@BT1000103035>
+clc
+pkg install -forge signal
+l
+l
+# Octave 5.2.0, Tue Jan 11 14:37:37 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Tue Jan 11 14:37:37 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Tue Jan 11 14:38:07 2022 GMT <unknown@BT1000103035>
+pkg load signal
+help cconv
+clc
+t=[0:0.01:1]
+size(t)
+clc
+t=[0:0.001:2]
+clc
+t=[0:0.001:2];
+# Octave 5.2.0, Tue Jan 11 15:57:35 2022 GMT <unknown@BT1000103035>
+clc
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+# Octave 5.2.0, Thu Jan 13 09:32:00 2022 GMT <unknown@BT1000103035>
+exp2
+exp2
+exp2
+# Octave 5.2.0, Tue Jan 18 15:56:39 2022 GMT <unknown@BT1000103035>
+exp2
+exp2
+exp2
+demo
+demo
+demo
+demo
+demo
+demo
+demo
+demo
+demo
+demo
+demo
+demo
+# Octave 5.2.0, Wed Jan 19 16:50:12 2022 GMT <unknown@BT1000103035>
+lab3
+la3
+lab3
+# Octave 5.2.0, Wed Jan 26 22:46:59 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Thu Feb 17 21:43:05 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Tue Apr 05 14:55:50 2022 GMT <unknown@BT1000103035>
+# Octave 5.2.0, Mon Apr 25 15:46:09 2022 GMT <unknown@BT1000103035>
+multiplexing
+# Octave 5.2.0, Tue Apr 26 14:09:06 2022 GMT <unknown@BT1000103035>

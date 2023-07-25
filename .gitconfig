@@ -1,0 +1,11 @@
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[user]
+	name = bibhabbanerjee
+	email = bibhabbanerjee960@gmail.com
+[core]
+	editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+[init]
+	defaultBranch = main

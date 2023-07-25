@@ -1,0 +1,48 @@
+24:16:14.316278 MainPower Log continuation - Log started 2022-11-17T12:27:18.468284800Z
+24:16:21.563495 USBPROXY usbLibGetDevices: Starting USB device enumeration
+24:16:23.305683 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+24:16:23.342429 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+24:16:23.343303 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+24:16:23.346821 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+24:16:23.347551 USBPROXY usbLibGetDevices: Starting USB device enumeration
+24:16:23.372507 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+24:16:23.373456 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+24:16:23.375223 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+24:16:23.376225 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+24:16:26.088088 USBPROXY usbLibGetDevices: Starting USB device enumeration
+24:16:26.243403 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+24:16:26.706168 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+24:16:26.706593 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+24:16:26.715612 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+24:17:19.188285 USBPROXY usbLibGetDevices: Starting USB device enumeration
+24:17:19.203496 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+24:17:19.205907 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+24:17:19.206052 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+24:17:19.206287 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+24:17:19.266652 dns-monitor HostDnsMonitor: updating information
+24:17:19.266689 dns-monitor HostDnsMonitor: old information
+24:17:19.266693 dns-monitor   no server entries
+24:17:19.266697 dns-monitor   no domain set
+24:17:19.266700 dns-monitor   no search string entries
+24:17:19.266704 dns-monitor HostDnsMonitor: new information
+24:17:19.266707 dns-monitor   server 1: 192.168.104.10
+24:17:19.266710 dns-monitor   server 2: 8.8.8.8
+24:17:19.266714 dns-monitor   domain: dhcp01
+24:17:19.266717 dns-monitor   no search string entries
+24:17:20.289199 USBPROXY usbLibGetDevices: Starting USB device enumeration
+24:17:20.305842 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 2
+24:17:20.308393 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+24:17:20.308594 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3b99d260&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+24:17:20.308746 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+24:17:23.751964 dns-monitor HostDnsMonitor: updating information
+24:17:23.752092 dns-monitor HostDnsMonitor: unchanged
+24:17:51.933812          Saving settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+24:18:06.572599          Saving settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+24:18:07.197582 SaveState Saving settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+24:18:07.729987          Saving settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+24:18:13.778575 main     VirtualBox: object deletion starts
+24:18:13.778689 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vhd' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+24:18:13.781596 main     HostDnsMonitor: shutting down ...
+24:18:13.781872 main     HostDnsMonitor: shut down
+24:18:13.795266 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+24:18:13.795987 main     VirtualBox: object deleted

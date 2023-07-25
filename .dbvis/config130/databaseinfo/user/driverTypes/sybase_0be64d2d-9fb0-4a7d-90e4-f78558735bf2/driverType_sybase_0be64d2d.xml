@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DriverTypeInfo id="0be64d2d-9fb0-4a7d-90e4-f78558735bf2" setThreadContext="false">
+  <supported>false</supported>
+  <hidden>false</hidden>
+  <Label>Sybase SQL Anywhere JConnect</Label>
+  <OriginId>sap_sybase_anywhere_jconnect</OriginId>
+  <OldName/>
+  <DefaultClass>com.sybase.jdbc4.jdbc.SybDriver</DefaultClass>
+  <DatabaseType>sybase-asa</DatabaseType>
+  <Description/>
+  <IsSupported>false</IsSupported>
+  <IconName/>
+  <DriverCategoryId>sybase</DriverCategoryId>
+  <Properties/>
+  <PropertyGroups/>
+  <Identifier>jdbc:sybase:Tds</Identifier>
+  <URLFormat><![CDATA[jdbc:sybase:Tds:<server>:<port2638>?<ServiceName=database>]]></URLFormat>
+  <WizardURLFormats/>
+  <MessageWhenChosen/>
+  <WebSite/>
+  <ArtifactBundle>
+    <Artifacts/>
+  </ArtifactBundle>
+  <BelongsToDatabaseCategory/>
+</DriverTypeInfo>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DriverTypeInfo id="351f5765-acae-4a0a-a67d-ba7ee29a5e21" setThreadContext="false">
+  <supported>true</supported>
+  <hidden>false</hidden>
+  <Label>DB2 DataDirect</Label>
+  <OriginId>db2_datadirect</OriginId>
+  <OldName/>
+  <DefaultClass>com.ddtek.jdbc.db2.DB2Driver</DefaultClass>
+  <DatabaseType>db2</DatabaseType>
+  <Description/>
+  <IsSupported>true</IsSupported>
+  <IconName/>
+  <DriverCategoryId>db2</DriverCategoryId>
+  <Properties/>
+  <PropertyGroups/>
+  <Identifier>jdbc:datadirect:db2</Identifier>
+  <URLFormat><![CDATA[jdbc:datadirect:db2://<server>:<port50000>;DatabaseName=<database>]]></URLFormat>
+  <WizardURLFormats/>
+  <MessageWhenChosen/>
+  <WebSite/>
+  <ArtifactBundle>
+    <Artifacts/>
+  </ArtifactBundle>
+  <BelongsToDatabaseCategory/>
+</DriverTypeInfo>
